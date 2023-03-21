@@ -1,0 +1,10 @@
+C:\Users\Merve Sena\OneDrive\Masaüstü\C#\OOP_2\OOP_2\bin\Debug\OOP_2.exe.config
+C:\Users\Merve Sena\OneDrive\Masaüstü\C#\OOP_2\OOP_2\bin\Debug\OOP_2.exe
+C:\Users\Merve Sena\OneDrive\Masaüstü\C#\OOP_2\OOP_2\bin\Debug\OOP_2.pdb
+C:\Users\Merve Sena\OneDrive\Masaüstü\C#\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.AssemblyReference.cache
+C:\Users\Merve Sena\OneDrive\Masaüstü\C#\OOP_2\OOP_2\obj\Debug\OOP_2.Form1.resources
+C:\Users\Merve Sena\OneDrive\Masaüstü\C#\OOP_2\OOP_2\obj\Debug\OOP_2.Properties.Resources.resources
+C:\Users\Merve Sena\OneDrive\Masaüstü\C#\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.GenerateResource.cache
+C:\Users\Merve Sena\OneDrive\Masaüstü\C#\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.CoreCompileInputs.cache
+C:\Users\Merve Sena\OneDrive\Masaüstü\C#\OOP_2\OOP_2\obj\Debug\OOP_2.exe
+C:\Users\Merve Sena\OneDrive\Masaüstü\C#\OOP_2\OOP_2\obj\Debug\OOP_2.pdb
